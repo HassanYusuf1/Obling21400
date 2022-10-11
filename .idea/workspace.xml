@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fdecc7a-b979-47d6-9e92-50a9e7295bc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Obling21400.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oppgave1/oppgave1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oppgave2/Tallspill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oppgave2/oppgave2.java" afterDir="false" />
+    <list default="true" id="9fdecc7a-b979-47d6-9e92-50a9e7295bc4" name="Changes" comment="Nesten ferdig med oppgave1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/hassa/IdeaProjects/Oppgaver for While og for  lokker",
+    "last_opened_file_path": "C:/Users/hassa/IdeaProjects/OblingDape1400siste",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,8 +51,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665490324322</updated>
-      <workItem from="1665490325978" duration="10242000" />
+      <workItem from="1665490325978" duration="11647000" />
     </task>
+    <task id="LOCAL−00001" summary="Nesten ferdig med oppgave1">
+      <created>1665518575604</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1665518575604</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nesten ferdig med oppgave1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nesten ferdig med oppgave1" />
   </component>
 </project>
