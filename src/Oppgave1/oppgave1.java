@@ -10,7 +10,6 @@ public class oppgave1 {
         int sum = 0;
         int antall = 0;
         for (int i = nedreTall; i<=øvreTall; i++) {
-            System.out.print(i);
             sum += i;
             antall++;
             if (i < øvreTall) {
