@@ -12,8 +12,12 @@ public class oppgave1 {
         for (int i = nedreTall; i<=øvreTall; i++) {
             sum += i;
             antall++;
+            System.out.print(i);
             if (i < øvreTall) {
                 System.out.print(" + ");}
+            if(i%10==0){
+                System.out.print("\n");
+            }
         }
         System.out.print(" = "+sum);
 
@@ -22,7 +26,6 @@ public class oppgave1 {
 
         }
     }
-
 
 
 }
