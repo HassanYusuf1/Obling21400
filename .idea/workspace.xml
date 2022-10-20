@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fdecc7a-b979-47d6-9e92-50a9e7295bc4" name="Changes" comment="Ferdig med oppgaven">
-      <change beforePath="$PROJECT_DIR$/src/oppgave2/oppgave2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oppgave2/oppgave2.java" afterDir="false" />
-    </list>
+    <list default="true" id="9fdecc7a-b979-47d6-9e92-50a9e7295bc4" name="Changes" comment="Ferdig med oppgaven" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665490324322</updated>
       <workItem from="1665490325978" duration="31785000" />
-      <workItem from="1666103545012" duration="5715000" />
+      <workItem from="1666103545012" duration="10285000" />
     </task>
     <task id="LOCAL−00001" summary="Nesten ferdig med oppgave1">
       <created>1665518575604</created>
@@ -90,7 +88,13 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1666276184561</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Ferdig med oppgaven">
+      <created>1666276556764</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1666276556764</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
