@@ -9,6 +9,7 @@ public class oppgave1 {
         int øvreTall = Integer.parseInt(showInputDialog("skriv tall 2"));
         int sum = 0;
         int antall = 0;
+        //Lager en forløkka som kjører Programmet.
         for (int i = nedreTall; i<=øvreTall; i++) {
             sum += i;
             antall++;
