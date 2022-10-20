@@ -17,7 +17,6 @@ class Tallspill{
     private void forLite(int tall){
     /* viser melding om at parameterens verdi er for
      lite tall og ber spilleren prøve igjen*/
-
          String melding=(tall+"Det er for liten tall. prøv igjen");
          visMelding(melding);
 
@@ -25,7 +24,6 @@ class Tallspill{
     private void forStort(int tall){
  /* viser melding om at parameterens verdi er for
      lite tall og ber spilleren prøve igjen*/
-
         String melding =tall+"Det er for stort tall. prøv igjen";
         visMelding(melding);
 
@@ -33,7 +31,6 @@ class Tallspill{
     public void avslutteRunde(int antall, int gjetning) {
         /*metoden viser melding om at det ble gjettet riktig
         og antall gjetninger som ble brukt.  */
-
         String melding = antall + "Det er riktig" + "Du gjettet riktig på" +
                 gjetning + "forsøk";
         visMelding(melding);
@@ -58,14 +55,10 @@ meldinger til spilleren.*/
        visMelding(melding);
        }
 
-
-
        if(i==spillerGjetning){
            avslutteRunde(i,gjetning);}
-
        if (i<spillerGjetning){
            forLite(i);}
-
        if(i>spillerGjetning){
            forStort(i);}
    }
